@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there! 👋
 
-<!--
-**gabrielchristo/gabrielchristo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gabriel
 
-Here are some ideas to get you started:
+I'm a Software Engineer from Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bachelor degree of Computer Science at [UFRJ](https://ufrj.br)
+
+Feel free to reach out or check my projects and [website](https://christo.dev.br)
+
+![](https://komarev.com/ghpvc/?username=gabrielchristo&style=flat-square)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:christo@dcc.ufrj.br)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielchristo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielchristo&hide=jupyter%20notebook&size_weight=0.85&count_weight=0.15&langs_count=12&layout=compact&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
